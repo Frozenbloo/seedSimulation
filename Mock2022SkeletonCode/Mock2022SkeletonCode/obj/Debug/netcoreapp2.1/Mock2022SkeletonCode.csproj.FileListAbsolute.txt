@@ -1,0 +1,11 @@
+C:\Users\tbloomer\OneDrive - C2k\School\AS Level\C#\Visual Studio 2019\Mock2022SkeletonCode\Mock2022SkeletonCode\bin\Debug\netcoreapp2.1\Mock2022SkeletonCode.deps.json
+C:\Users\tbloomer\OneDrive - C2k\School\AS Level\C#\Visual Studio 2019\Mock2022SkeletonCode\Mock2022SkeletonCode\bin\Debug\netcoreapp2.1\Mock2022SkeletonCode.runtimeconfig.json
+C:\Users\tbloomer\OneDrive - C2k\School\AS Level\C#\Visual Studio 2019\Mock2022SkeletonCode\Mock2022SkeletonCode\bin\Debug\netcoreapp2.1\Mock2022SkeletonCode.runtimeconfig.dev.json
+C:\Users\tbloomer\OneDrive - C2k\School\AS Level\C#\Visual Studio 2019\Mock2022SkeletonCode\Mock2022SkeletonCode\bin\Debug\netcoreapp2.1\Mock2022SkeletonCode.dll
+C:\Users\tbloomer\OneDrive - C2k\School\AS Level\C#\Visual Studio 2019\Mock2022SkeletonCode\Mock2022SkeletonCode\bin\Debug\netcoreapp2.1\Mock2022SkeletonCode.pdb
+C:\Users\tbloomer\OneDrive - C2k\School\AS Level\C#\Visual Studio 2019\Mock2022SkeletonCode\Mock2022SkeletonCode\obj\Debug\netcoreapp2.1\Mock2022SkeletonCode.csprojAssemblyReference.cache
+C:\Users\tbloomer\OneDrive - C2k\School\AS Level\C#\Visual Studio 2019\Mock2022SkeletonCode\Mock2022SkeletonCode\obj\Debug\netcoreapp2.1\Mock2022SkeletonCode.csproj.CoreCompileInputs.cache
+C:\Users\tbloomer\OneDrive - C2k\School\AS Level\C#\Visual Studio 2019\Mock2022SkeletonCode\Mock2022SkeletonCode\obj\Debug\netcoreapp2.1\Mock2022SkeletonCode.AssemblyInfoInputs.cache
+C:\Users\tbloomer\OneDrive - C2k\School\AS Level\C#\Visual Studio 2019\Mock2022SkeletonCode\Mock2022SkeletonCode\obj\Debug\netcoreapp2.1\Mock2022SkeletonCode.AssemblyInfo.cs
+C:\Users\tbloomer\OneDrive - C2k\School\AS Level\C#\Visual Studio 2019\Mock2022SkeletonCode\Mock2022SkeletonCode\obj\Debug\netcoreapp2.1\Mock2022SkeletonCode.dll
+C:\Users\tbloomer\OneDrive - C2k\School\AS Level\C#\Visual Studio 2019\Mock2022SkeletonCode\Mock2022SkeletonCode\obj\Debug\netcoreapp2.1\Mock2022SkeletonCode.pdb
