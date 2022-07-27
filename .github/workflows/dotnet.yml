@@ -23,8 +23,8 @@ jobs:
         dotnet restore
     - name: Build
       run: | 
-        cd Mock2022SkeletonCodedotnet 
-        build --no-restore
+        cd Mock2022SkeletonCode
+        dotnet build --no-restore
     - name: Test
       run: | 
         cd Mock2022SkeletonCode
